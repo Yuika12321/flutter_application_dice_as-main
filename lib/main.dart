@@ -14,6 +14,7 @@ class MyApp extends StatefulWidget {
   State<MyApp> createState() => _MyAppState();
 }
 
+//asdf
 class _MyAppState extends State<MyApp> {
   Dice dice = Dice(size: 45);
   late Timer timer;
